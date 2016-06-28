@@ -8,7 +8,7 @@ Note! This repository is currently using a forked version of `cerebral-module-ro
 
 Sometimes you want to open a modal window from a variety of routes. See here: https://github.com/cerebral/cerebral-module-router/issues/96
 
-Sometimes you want to perform a check before changing routes. See here: https://github.com/cerebral/cerebral-module-router/issues/93. Note that this does not handle a manual change of the URL. I'm sure that this could be quite easy by adding incorprating something like this: http://stackoverflow.com/questions/2029343/how-to-stop-window-unloading.
+Sometimes you want to perform a check before changing routes. See here: https://github.com/cerebral/cerebral-module-router/issues/93. Note that this does not handle a manual change of the URL. I'm sure that this could be handled by incorprating something like this: http://stackoverflow.com/questions/2029343/how-to-stop-window-unloading. I'll probably explore in future versions.
 
 ## Suggestions?
 Code is kind of messy. But, should be fairly easy to grok If you have any questions, please create an issue. If you have any suggestions or ideas to make this more `cerebral`, please submit an issue.
