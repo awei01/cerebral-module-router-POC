@@ -47,7 +47,7 @@ const revertToPreviousRoute = [
 	({ state, services }) => {
 		const previousRoute = state.get('routing');
 		const url = services.router.getSignalUrl(previousRoute.signal, previousRoute.params || {});
-		services.router.redirect(url, true);
+		services.router.redirect(url, { replace: true });
 	}
 ]
 
