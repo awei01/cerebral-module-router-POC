@@ -10,6 +10,10 @@ Sometimes you want to open a modal window from a variety of routes. See here: ht
 
 Sometimes you want to perform a check before changing routes. See here: https://github.com/cerebral/cerebral-module-router/issues/93. Note that this does not handle a manual change of the URL. I'm sure that this could be handled by incorprating something like this: http://stackoverflow.com/questions/2029343/how-to-stop-window-unloading. I'll probably explore in future versions.
 
+## More Developed Version
+
+I've enhanced this design pattern somewhat in my own application. My version can now 1) stop execution of a route, 2) enforce a previously stopped execution. If anyone is interested, submit an issue and I'll update this repo to refelct my new developments. Too lazy to include ATM... 
+
 ## Suggestions?
 Code is kind of messy. I didn't spend much time on organization. But, should be fairly easy to grok. If you have any questions, please create an issue. If you have any suggestions or ideas to make this more `cerebral`, please submit an issue.
 
