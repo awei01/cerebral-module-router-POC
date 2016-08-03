@@ -4,7 +4,7 @@ This is a repository for a proof of concept for `cerebral-module-router`. It is 
 
 ~~Note! This repository is currently using a forked version of `cerebral-module-router` https://github.com/awei01/cerebral-module-router/~~
 
-Update! While this repository uses a forced version of `cerebral-module-router` https://github.com/awei01/cerebral-module-router/, you can actually achieve the same effect by pre-pending a factory-generated action, which outputs a signal to the input, before triaging the route. 
+Update! While this repository uses a forked version of `cerebral-module-router` https://github.com/awei01/cerebral-module-router/, you can actually achieve the same effect by pre-pending a factory-generated action, which outputs a signal to the input, before triaging the route. 
 
 ## Motivation
 
